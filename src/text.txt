@@ -1,0 +1,17 @@
+npm install react-bootstrap bootstrap
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+npm install react-router-dom
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { Link } from 'react-router-dom';
+
+npm install axios
+
+npm install jsonwebtoken
+npm install buffer
+npm install crypto-browserify
+
+
+
+https://stock-sever-1.onrender.com
